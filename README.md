@@ -9,6 +9,11 @@
 - [Lowndes et al., 2017](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=+Lowndes+et+al.%2C+2017&btnG=&oq=lownd) (our path to better science in less time using open-source tools
 - [ORION open science questionnaire and self-assessment](https://www.orion-openscience.eu/public/2019-01/ORION_Questionaire_RPFO-CRECIM.pdf) (more instititionally-focused)
 
+## Need for study 
+
+- Identify aspects of open science that are most- and least-practiced (and reasons one)
+- Have initial data to compare efforts to support open science practices over time
+
 ## Construct - open science practices
 
 Wondering about studying these constructs as *open science practices*:
