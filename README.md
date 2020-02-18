@@ -30,11 +30,12 @@ They are also similar to those described in [van der Zee and Reich (2018)](https
 
 ... can and should be made more transparent and accessible"
 
-## Study plan
+## Plan
 
 1. Decide on constructs to study; 
    1. are the five from Kaufman et al. (2019) inclusive enough?
    1. b) those that are relevant and important to educational researchers?
 1. Create the survey (using Qualtrics? or some OSS? :))
 1. Pilot test/receive feedback
+1. Apply for exempt IRB (with broad recruitment strategy; can revise later if a specific population is recruited to participate)
 1. Determine who we send it to; reach out to AERA's executive director about possibly surveying AERA members
