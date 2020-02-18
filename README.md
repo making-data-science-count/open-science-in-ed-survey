@@ -1,6 +1,15 @@
 # open-science-in-ed-survey
 
-## Construct - Open Science Practices
+## Surveys of open science practices in fields other than educational research
+
+- [The life sciences](http://dx.doi.org/10.1371/journal.pcbi.1005755)
+
+## Related work
+
+- [Lowndes et al., 2017](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=+Lowndes+et+al.%2C+2017&btnG=&oq=lownd) (our path to better science in less time using open-source tools
+- [ORION open science questionnaire and self-assessment](https://www.orion-openscience.eu/public/2019-01/ORION_Questionaire_RPFO-CRECIM.pdf) (more instititionally-focused)
+
+## Construct - open science practices
 
 Wondering about studying these constructs as *open science practices*:
 
@@ -21,7 +30,7 @@ They are also similar to those described in [van der Zee and Reich (2018)](https
 
 ... can and should be made more transparent and accessible"
 
-## Study Plan
+## Study plan
 
 1. Decide on constructs to study; 
    1. are the five from Kaufman et al. (2019) inclusive enough?
