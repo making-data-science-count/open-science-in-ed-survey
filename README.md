@@ -1,4 +1,4 @@
-# open-science-in-ed-survey
+# Open Science Practices in Education Survey
 
 ## Surveys of open science practices in fields other than educational research
 
