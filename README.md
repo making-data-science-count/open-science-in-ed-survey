@@ -13,6 +13,7 @@
 
 - Identify aspects of open science that are most- and least-practiced (and reasons one)
 - Have initial data to compare efforts to support open science practices over time
+- Despite interest in and notions about the progress of open science in education, no empirical data is available
 
 ## Construct - open science practices
 
