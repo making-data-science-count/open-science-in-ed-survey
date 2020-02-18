@@ -19,11 +19,11 @@
 
 Wondering about studying these constructs as *open science practices*:
 
--Preregistration
--Open Materials and/or Code
--Open Data
--Pre-publication Archiving
--Open Access Publishing  
+-Preregistration . 
+-Open Materials and/or Code . 
+-Open Data . 
+-Pre-publication Archiving . 
+-Open Access Publishing . 
 
 These are highlighted in a survey of the open science practices that researchers at an Australian University participate in (Kaufman et al., 2019): https://osf.io/a4bwp/.
 
