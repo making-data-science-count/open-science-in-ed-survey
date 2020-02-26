@@ -6,7 +6,7 @@
 
 ## Related work
 
-- [Lowndes et al., 2017](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=+Lowndes+et+al.%2C+2017&btnG=&oq=lownd) (our path to better science in less time using open-source tools
+- [Lowndes et al., 2017](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=+Lowndes+et+al.%2C+2017&btnG=&oq=lownd) (our path to better science in less time using open-source tools)
 - [ORION open science questionnaire and self-assessment](https://www.orion-openscience.eu/public/2019-01/ORION_Questionaire_RPFO-CRECIM.pdf) (more instititionally-focused)
 
 ## Need for study 
